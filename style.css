@@ -1,0 +1,83 @@
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(45deg, rgb(0, 0, 0),rgb(19, 0, 40));
+
+}
+
+input {
+    color: #fff;
+    padding: 17px;
+    outline: none;
+    font-size: 27px;
+    border-radius: 25%;
+    
+}
+
+.num {
+    width: 64px;
+    height: 67px;
+    border-color: gray;
+}
+
+.text {
+    width: 160px;
+    height: 26px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+    border-color: gray;
+
+}
+
+.text1 {
+    width: 24px;
+    height: 26px;
+    cursor: pointer;
+}
+
+.title {
+    box-sizing: au;
+    
+}
+
+.main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: black;
+}
+
+.blu {
+    background-color: #0cd0cd;
+}
+
+.ora {
+    background-color: #c4490c;
+}
+
+.gre {
+    background-color: #018009;
+}
+
+.pur {
+    background-color: #4f0047;
+}
+
+
+.gra {
+    background-color: #727070;
+}
+
+h1 {
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
